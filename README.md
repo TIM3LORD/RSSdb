@@ -26,3 +26,14 @@ v3 --> Added Support for Reddit Links
    -->Added Description to each feed data
    
    -->Reddit Description problem solved by setting description to no description found
+   
+   
+   
+   
+   RSS_Firebase_Frontend
+   
+   v1 --> Basic pull from database
+   
+   
+   v2 --> refresh on new data
+      --> Changed id to class for '<p>' elements
