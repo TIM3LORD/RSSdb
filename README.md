@@ -28,6 +28,11 @@ v3 --> Added Support for Reddit Links
    -->Reddit Description problem solved by setting description to no description found
    
    
+ 
+v3.5 -->Added suppport for Apifier Web crawler Rss links
+     -->TRY TO FIX : AUTOMATIC ADDITION TO THE MAIN FEED WITHOUT EXTRA BACKEND CODE
+   
+   
    
    
    RSS_Firebase_Frontend
@@ -36,4 +41,4 @@ v3 --> Added Support for Reddit Links
    
    
    v2 --> refresh on new data
-      --> Changed id to class for '<p>' elements
+      --> Changed id to class for p elements
